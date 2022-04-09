@@ -1,5 +1,5 @@
 # Enterprise_Network_Design
- Enterpise network  Designs for Corporations with Packet-Race Efficiency Optimization
+ Enterpise network  Designs for Corporations with Packet-Trace Efficiency Optimization
  
  Objectives:
 Through this assignment, you should demonstrate your ability in:
